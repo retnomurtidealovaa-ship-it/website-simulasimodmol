@@ -13,10 +13,10 @@
             margin: 0;
             padding: 0;
             font-family: 'Inter', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #071426 0%, #0b3451 40%, #07202e 100%);
+            background: (135, #071426 0, #0b3451 40, #07202e 100);
             color: white;
             overflow: hidden;
-            height: 100vh;
+            height: 100;
             display: flex;
             flex-direction: column;
         }
